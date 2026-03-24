@@ -1,0 +1,1 @@
+This repository contains the results of a classification and regression project, evaluating various models such as Logistic Regression, Multiclass Logistic Regression, and Support Vector Machines (SVM) with different kernels
